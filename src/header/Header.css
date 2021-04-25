@@ -1,0 +1,15 @@
+.h1 {
+  color: rgb(6, 50, 61);
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  background-image: url('../footer/social-media-icons/facebook.png');
+  font-size: 120px;
+  text-align: center;
+}
+
+
+/* for implementing responsiveness between using on a pc vs. phone
+@media screen and (min-width: 768px) {
+  .container p {
+    max-width: 40rem;
+  }
+} */
