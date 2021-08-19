@@ -1,3 +1,6 @@
+This project (still in development) is an SPA (single-page application) that styles a mock restaurant website using ReactJS.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
